@@ -10,6 +10,7 @@ redirect_from:
 ## Education
 
 B.Sc. in Computer Science, The University of Sheffield, Sheffield, United Kingdom, 2019-2022.
+
 M.Sc. in Advanced Computer Science, The University of Manchester, Manchester, United Kingdom, 2022-2023.
 
 ## Research Interests
