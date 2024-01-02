@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Ruiqing Xu"
+title: "Ruiqing Xu (徐瑞卿)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Education
 
-I received the B.Sc. degree in computer science from the University of Sheffield, Sheffield, U.K., in 2022, and the M.Sc. degree in advanced computer science from the University of Manchester, Manchester, U.K., in 2023, respectively. Her research interests include natural language processing and medical image analysis.
+B.Sc. degree in Computer Science, The University of Sheffield, Sheffield, United Kingdom, 2019-2022.
+M.Sc. degree in Advanced Computer Science from The University of Manchester, Manchester, United Kingdom, 2022-2023. 
