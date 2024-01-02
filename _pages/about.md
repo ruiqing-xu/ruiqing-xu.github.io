@@ -15,8 +15,7 @@ M.Sc. in Advanced Computer Science, The University of Manchester, Manchester, Un
 
 ## Research Interests
 
-Natural Language Processing
-Medical Image Analysis
+Natural language processing and medical image analysis
 
 ## Research Experience
 
