@@ -15,6 +15,6 @@ I received the B.Sc. degree in Computer Science from The University of Sheffield
 
 ### Research Experience
 
-I am now an research assistant in [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)'s group at The Hong Kong Polytechnic University (PolyU).
+Currently, I work as a research assistant at The Internet and Mobile Computing Laboratory (IMCL), directed by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/) at The Hong Kong Polytechnic University (PolyU).
 
-Previously, I was an research assistant at Information and Decision Systems (IDS) Group, University College London (UCL), under the supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
+Previously, I was a research assistant at Information and Decision Systems (IDS) Group, University College London (UCL), under the supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
