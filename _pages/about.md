@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Education
+## Education
 
-I received the B.Sc. degree in Computer Science from The University of Sheffield, Sheffield, United Kingdom, in 2022, and the M.Sc. degree in Advanced Computer Science from The University of Manchester, Manchester, United Kingdom, in 2023, respectively. My research interests include natural language processing and medical image analysis. 
+B.Sc. in Computer Science, The University of Sheffield, Sheffield, United Kingdom, 2019-2022.
+M.Sc. in Advanced Computer Science, The University of Manchester, Manchester, United Kingdom, 2022-2023.
 
+## Research Interests
 
+Natural Language Processing
+Medical Image Analysis
 
-### Research Experience
+## Research Experience
 
 Currently, I work as a research assistant at The Internet and Mobile Computing Laboratory (IMCL), directed by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/) at The Hong Kong Polytechnic University (PolyU).
 
