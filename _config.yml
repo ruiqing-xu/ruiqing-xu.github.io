@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruiqing Xu 徐瑞卿"
+title                    : "Ruiqing Xu"
 title_separator          : "-"
-name                     : &name "Ruiqing Xu 徐瑞卿"
+name                     : &name "Ruiqing Xu"
 description              : &description "personal description"
 url                      : https://ruiqing-xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
