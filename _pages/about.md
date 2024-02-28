@@ -7,11 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Education
 
-B.Sc. in Computer Science, The University of Sheffield, Sheffield, United Kingdom, 2019-2022.
-
-M.Sc. in Advanced Computer Science, The University of Manchester, Manchester, United Kingdom, 2022-2023.
+I'm a Research Assistant at the Department of Computing, The Hong Kong Polytechnic University. Before that, I received the B.Sc. degree from the University of Sheffield, U.K., in 2022, and the M.Sc. degree from the University of Manchester, U.K., in 2023, respectively.
 
 ## Research Interests
 
