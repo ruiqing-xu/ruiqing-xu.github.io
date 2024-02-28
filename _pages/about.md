@@ -1,18 +1,14 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a Research Assistant at the Department of Computing, The Hong Kong Polytechnic University. Before that, I received the B.Sc. degree from the University of Sheffield, U.K., in 2022, and the M.Sc. degree from the University of Manchester, U.K., in 2023, respectively.
-
-## Research Interests
-
-Natural language processing and medical image analysis
+I'm a Research Assistant at the Department of Computing, The Hong Kong Polytechnic University. Before that, I received the B.Sc. degree from the University of Sheffield, U.K., in 2022, and the M.Sc. degree from the University of Manchester, U.K., in 2023, respectively. My research interests lie in medical image segmentation using magnetic resonance imaging (MRI) and computed tomography (CT).
 
 ## Research Experience
 
