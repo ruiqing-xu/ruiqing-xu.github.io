@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-## About me
+## About Me
 
 I obtained my M.Sc. degree in Advanced Computer Science, from the University of Manchester, UK, with merit, in 2023. Before that, I received my B.Sc. degree in Computer Science, from the University of Sheffield, UK, with first-class honours degree, in 2022.
 
