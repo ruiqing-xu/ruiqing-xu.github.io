@@ -1,21 +1,27 @@
 ---
 permalink: /
-title: "About me"
+title: "Ruiqing Xu’s Academic Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
-<!-- 
-I received the B.Sc. degree from the University of Sheffield, U.K., in 2022, and the M.Sc. degree from the University of Manchester, U.K., in 2023, respectively. My research interests lie in medical image segmentation using magnetic resonance imaging (MRI) and computed tomography (CT).
--->
 
-I'm a Research Assistant at the Department of Computing, The Hong Kong Polytechnic University. Before that, I received the B.Sc. degree from the University of Sheffield, U.K., in 2022, and the M.Sc. degree from the University of Manchester, U.K., in 2023, respectively. 
+### About me
 
-## Research Experience
+I obtained my M.Sc. degree in Advanced Computer Science, from the University of Manchester, UK, with merit, in 2023. Before that, I received my B.Sc. degree in Computer Science, from the University of Sheffield, UK, with first-class honours degree, in 2022.
 
-Currently, I work as a research assistant at The Internet and Mobile Computing Laboratory (IMCL), directed by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/) at The Hong Kong Polytechnic University (PolyU).
+### Work Experience
 
-Previously, I was a research assistant at the Web Intelligence Group, University College London (UCL), under the supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/).
+- 01/2024 - 05/2024: Research Assistant
+  - Internet and Mobile Computing Laboratory (IMCL), The Hong Kong Polytechnic University (PolyU), Hong Kong SAR.
+  - Supervisor: [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)
+
+- 07/2022 - 09/2022: Research Assistant
+  - Web Intelligence Group, University College London (UCL), UK.
+  - Supervisor: [Prof. Emine Yilmaz](https://sites.google.com/site/emineyilmaz/)
+
+
 
