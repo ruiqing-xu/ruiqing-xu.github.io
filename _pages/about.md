@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I obtained my M.Sc. degree in Advanced Computer Science, from the University of Manchester, UK, with merit, in 2023. Before that, I received my B.Sc. degree in Computer Science, from the University of Sheffield, UK, with first-class honours degree, in 2022.
+I am a PhD student at the University College London. I obtained my M.Sc. degree in Advanced Computer Science, from the University of Manchester, UK, with merit, in 2023. Before that, I received my B.Sc. degree in Computer Science, from the University of Sheffield, UK, with first-class honours degree, in 2022.
 
 ## Work Experience
 
