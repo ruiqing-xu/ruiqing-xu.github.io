@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am a PhD student at University College London (UCL) under the supervision of [Prof. Gary Royel](https://profiles.ucl.ac.uk/10475-gary-royle/about), focusing on AI-based solutions for cancer prediction.
+I am a PhD student at University College London (UCL) under the supervision of [Prof. Gary Royle](https://profiles.ucl.ac.uk/10475-gary-royle/about), focusing on AI-based solutions for cancer prediction.
 
 ## Education
 
